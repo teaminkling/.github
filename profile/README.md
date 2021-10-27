@@ -1,6 +1,6 @@
 # Hey, gang 🦑
 
-![](logo.png)
+![](https://github.com/teaminkling/.github/blob/main/profile/logo.png?raw=true)
 
 Inkling Interactive is a small interactive media studio founded in 2018. We are proudly
 headquartered in Melbourne, Australia, with contributors from San Francisco, USA and elsewhere.
