@@ -2,25 +2,22 @@
 
 ![](https://github.com/teaminkling/.github/blob/main/profile/logo.png?raw=true)
 
-Inkling Interactive is a small interactive media studio founded in 2018. We are proudly
-headquartered in Melbourne, Australia, with contributors from San Francisco, USA and elsewhere.
+Inkling Interactive is a small interactive media studio founded in 2018. We are proudly headquartered in Melbourne,
+Australia, with contributors from San Francisco, Seoul, and elsewhere.
 
-We're adventurous and serious about art and technology; a team with deep-sea spark.
+We're adventurous and serious about art and technology; a team with deep-sea spark!
 
-## Our Team 🎳
+## Our Works 👩‍🎨
 
-Everybody on our team is part of the creative process. Our producers, technologists, artists,
-musicians, and writers are part of the same creative process that builds our products.
+Our favourite kind of product is interactive narrative media: games that feature engaging and thought-provoking stories
+across a variety of themes.
 
-Our favourite kind of product is interactive narrative media: games that feature engaging and
-thought-provoking stories across a variety of themes. We enjoy realistic fiction, fantasy, and
-science fiction the most!
+We also produce other technical and artistic works in support of these efforts, as well as side project experiments
+released to the public.
 
 ## Open Source 👩‍💻
 
-Our rule is that any technology-involved project that can be made open source - especially tools -
-will always be open-sourced. We have followed that process and intend to do so for the foreseeable
-future.
+Any technology-involved project that can be made open source - especially tools - will always be open-sourced!
 
 ## Cheers 🙏
 
