@@ -1,6 +1,6 @@
 ---
 
-name: Problem Report
+name: Advanced Problem Report
 
 about: File a bug report.
 
