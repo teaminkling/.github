@@ -8,14 +8,14 @@ across a variety of themes.
 
 ## Our Works 👩‍🎨
 
-- (In Development) ???
+- (In Development) 🎡 ???
 
 An casual single-player narrative game of luck set in Medieval France.
 
-- (In Development) ???
+- (In Development) 🧑‍🍳 ???
 
 A narrative cooking-focused RPG adventure story.
 
-- (In Development) Memeware
+- (In Development) 😂 Memeware
 
 An free online multiplayer meme creation and sharing party game.
