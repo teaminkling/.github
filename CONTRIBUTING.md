@@ -3,12 +3,7 @@
 ## Getting Started
 
 - [Ensure you have a GitHub account][join].
-- Feel free to open an issue to report any bugs.
-- The discussions page (if one exists for the repository) is a free, safe, and open environment to
-  discuss:
-  - Feature requests.
-  - Showcases.
-  - Whatever comes to mind!
+- Feel free to open an issue to report any bugs or request a new feature/enhancement.
 
 ## The Basics
 
@@ -17,42 +12,17 @@
 1. Fork the repository.
 2. Branch from `main` in your fork.
 3. Open pull requests (PRs) from your fork's new branch to our repository's `main` branch.
+4. The branch should have a short and meaningful name.
 
-- A branch has exactly one corresponding issue and contributor.
-
-4. The branch should be named `#-short_description`, e.g., `31-fix_padding`.
-
-Note that any code must be in American English and any comments should be in Australian English.
-Errors will not be rejected in PR but likely will be overwritten in later code changes.
-
-## Issue Correspondence
-
-An issue has:
-
-- Exactly one assignee.
-- Ideally exactly one branch.
-
-## Slightly More Advanced Rules
-
-1. If `main` is ahead of your branch, make yourself level with `main` by rebasing before submitting
-   a pull request.
-2. Once the PR is opened please do not rebase anymore.
-3. If your branch goes stale it may be closed at the maintainers' discretion.
-
-## Quality Control
-
-There are quality control standards.
-
-- Run your code under as many code quality checks as possible.
-- Make sure it is readable and well-documented.
-- Make sure it adheres to language/framework-specific conventions.
+Any code must be in American English. Everything should otherwise be in any form of English,
+and may be overwritten later by maintainers to match Australian English.
 
 ## Maintainers' Guide
 
 ### Sprint Planning
 
-GitHub Projects defines sprints internally. At the end of a sprint, the team decides whether a
-release should be created. The release cutoff is more or less arbitrary.
+We define sprints internally. At the end of a sprint, the team decides whether a release
+should be created. The release cutoff is more or less arbitrary.
 
 Hotfixes can be created any time and released immediately.
 
@@ -65,5 +35,3 @@ Hotfixes can be created any time and released immediately.
 Changelogs are for humans, and it should be a human process to perform the release.
 
 [join]: https://github.com/join
-
-[flow]: https://github.com/teaminkling/doc-flow
