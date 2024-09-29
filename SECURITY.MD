@@ -11,6 +11,6 @@ This applies to all repository types: binaries/apps, libraries, and APIs.
 
 ## Reporting a Vulnerability
 
-Please don't raise security issues as GitHub Issues. Instead, please email the [security lead][keybase-paced].
+Please don't raise security issues as GitHub Issues. Instead, please email the [tech lead][keybase-paced].
 
 [keybase-paced]: https://keybase.io/paced
